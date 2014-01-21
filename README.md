@@ -27,7 +27,7 @@ where the opening and closing braces are aligned.
 
 ### How to format source code ?
 
-Right click in the source code, then Source > Format (shortcut : Ctrl + Shift + F).
+Right click in the source code, then __Source > Format__ (shortcut : Ctrl + Shift + F).
 
 
 # Other useful references
