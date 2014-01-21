@@ -22,7 +22,7 @@ It will then be available within the current workspace.
 
 As you can see, I don't like much the Sun or [K&R style](http://en.wikipedia.org/wiki/Indent_style#K.26R_style) of indentation. 
 I prefer to adopt the [Allman style](http://en.wikipedia.org/wiki/Indent_style#Allman_style), 
-where the opening and closing braces are aligned. 
+where the opening and closing braces are aligned vertically. 
 
 
 ### How to format source code ?
